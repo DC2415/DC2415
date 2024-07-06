@@ -63,9 +63,6 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
   </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-  </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   </a>
@@ -75,22 +72,16 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-  </a>
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dc2415&show_icons=true&locale=en&layout=compact" alt="dc2415" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DC2415&show_icons=true&locale=en&layout=compact" alt="DC2415" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dc2415&show_icons=true&locale=en" alt="dc2415" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DC2415&show_icons=true&locale=en" alt="DC2415" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dc2415&" alt="dc2415" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DC2415&" alt="DC2415" />
 </p>
