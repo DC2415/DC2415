@@ -8,13 +8,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/dhananjay-chacherkar-067a731bb/" target="blank">
+  <a href="//www.linkedin.com/in/dhananjay-chacherkar-067a731bb/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/https://leetcode.com/u/dc2415/" target="blank">
+  <a href="https://leetcode.com/u/dc2415/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=someone@example.com&su=SUBJECT&body=BODY&bcc=dhananjay7chacherkar@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dhananjay7chacherkar@gmail.com&su=SUBJECT&body=BODY&bcc=dhananjay7chacherkar@gmail.com" target="_blank">
     <img align="center" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" />
   </a>
 </p>
