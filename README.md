@@ -68,4 +68,5 @@
   </a>
 </p>
 <h3 align="left">🔥   My Stats :</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DC2415&" alt="DC2415" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DC2415&theme=radical" alt="DC2415" /></p>
+
